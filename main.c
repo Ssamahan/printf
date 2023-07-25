@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main - Entry point
  *
@@ -9,3 +10,4 @@ int main(void)
     _printf("%S\n", "Best\nSchool");
     return (0);
 }
+
