@@ -2,11 +2,7 @@
 
 /**
  * get_width - Calculates the width for printing
-<<<<<<< HEAD
  * @format: Formatted string in which to print the arguments.
-=======
- * @format: Formats string in which to print the arguments.
->>>>>>> 9d198360566b6cdd8136b4047dd0886ffa705c07
  * @i: List of arguments to be printed.
  * @list: list of arguments.
  *
@@ -38,4 +34,3 @@ int get_width(const char *format, int *i, va_list list)
 
 	return (width);
 }
-
